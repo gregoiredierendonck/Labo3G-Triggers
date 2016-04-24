@@ -30,4 +30,4 @@ If command line show any error, simply run `gulp clean` and run again previous c
 
 ## See in action
 
-http://gregoiredioerendonck.github.io/Labo3G-Triggers
+http://gregoiredierendonck.github.io/Labo3G-Triggers
